@@ -1,0 +1,12 @@
+diff --git a/sl.c b/sl.c
+index 8339930..d029452 100644
+--- a/sl.c
++++ b/sl.c
+@@ -38,6 +38,7 @@
+ /* sl version 1.00 : SL runs vomiting out smoke.                             */
+ /*                                              by Toyoda Masashi 1992/12/11 */
+ 
++//Script patch changes
+ 
+ #include <curses.h>
+ #include <signal.h>
